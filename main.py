@@ -1,5 +1,5 @@
 """
-Birbank Credit Scorecard Model & API
+Bank Credit Scorecard Model & API
 Trains an internal logistic regression scorecard utilizing Weight of Evidence (WOE) 
 and exposes it via an asynchronous FastAPI endpoint for loan approval processing.
 """
